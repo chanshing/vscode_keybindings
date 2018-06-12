@@ -1,0 +1,24 @@
+{
+    "editor.minimap.enabled": true,
+    "latex-workshop.view.pdf.viewer": "browser",
+    "vim.useSystemClipboard": true,
+    "vim.easymotion": true,
+    "vim.easymotionMarkerForegroundColorOneChar": "#ffff00",
+    "vim.easymotionMarkerForegroundColorTwoChar": "#ffa500",
+    "vim.easymotionMarkerBackgroundColor": "#000000",
+    "vim.easymotionMarkerFontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback', 'Noto Color Emoji'",
+    "vim.easymotionMarkerFontSize": "14",
+    "vim.easymotionMarkerFontWeight": "bold",
+    "vim.easymotionMarkerWidthPerChar": 10,
+    "vim.easymotionMarkerHeight": 18,
+    "vim.easymotionMarkerYOffset": 0,
+    "vim.surround": true,
+    "vim.otherModesKeyBindingsNonRecursive": [
+        {
+            "before": ["<space>"],
+            "after": ["<leader>", "<leader>", "<leader>", "b", "d", "w"]
+        },
+    ],
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Default Light+",
+}
